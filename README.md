@@ -19,4 +19,4 @@ After years, it's permitted to add only 1 piece to the puzzle during each summer
 The piece becomes bigger as life science develops.
 This summer, 57th piece is with you to the next stage.
 
-<img src="https://github.com/Yoocie/Design_SummerSchool2017/blob/master/Design_SummerSchool2017/57thT.pdf">
+!(https://github.com/Yoocie/Design_SummerSchool2017/blob/master/Design_SummerSchool2017/57thT.pdf "サンプル")
