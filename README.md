@@ -9,6 +9,7 @@ This is the design for T-shirts of  "57th summer school of life science"(Shiga, 
 生命科学の加速度的な発展に伴い、大きく孤を拡げ続けます。
 さあ、2017年夏。57枚目のピースが、あなたを次のステージへ！ 
 
+[57thT.pdf](https://github.com/Yoocie/Design_SummerSchool2017/files/3882250/57thT.pdf)
 
 Over 50 years ago, the story bigins.
 A group of young researchers at life science seem to make something.
@@ -19,4 +20,4 @@ After years, it's permitted to add only 1 piece to the puzzle during each summer
 The piece becomes bigger as life science develops.
 This summer, 57th piece is with you to the next stage.
 
-!(https://github.com/Yoocie/Design_SummerSchool2017/blob/master/Design_SummerSchool2017/57thT.pdf "サンプル")
+
