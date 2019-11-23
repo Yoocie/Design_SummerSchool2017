@@ -9,7 +9,7 @@ This is the design for T-shirts of  "57th summer school of life science"(Shiga, 
 生命科学の加速度的な発展に伴い、大きく孤を拡げ続けます。
 さあ、2017年夏。57枚目のピースが、あなたを次のステージへ！ 
 
-![57thT.pdf](https://github.com/Yoocie/Design_SummerSchool2017/files/3882250/57thT.pdf)
+<img width="499" alt="Screenshot 2019-11-23 17 18 44" src="https://user-images.githubusercontent.com/50050131/69475825-574d3080-0e15-11ea-84c0-bd91e2e2369d.png">
 
 Over 50 years ago, the story bigins.
 A group of young researchers at life science seem to make something.
