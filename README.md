@@ -1,6 +1,4 @@
 # Design_SummerSchool2017
-This is the design for T-shirts of  "57th summer school of life science"(Shiga, Japan, 2017). Designed by Yoocie with Adobe Illustrator. 
-
 
 お話の始まりは半世紀以上もむかし。
 生命科学を学ぶ若者たちが、酒を片手にガヤガヤ……何か作り始めたようです。
@@ -9,7 +7,12 @@ This is the design for T-shirts of  "57th summer school of life science"(Shiga, 
 生命科学の加速度的な発展に伴い、大きく孤を拡げ続けます。
 さあ、2017年夏。57枚目のピースが、あなたを次のステージへ！ 
 
+最下列の塩基配列をアミノ酸の1文字表記に変換すると、"ACHEVE YOUR LIFE SCIENCE"という文字が浮かび上がります。
+
 <img width="499" alt="Screenshot 2019-11-23 17 18 44" src="https://user-images.githubusercontent.com/50050131/69475825-574d3080-0e15-11ea-84c0-bd91e2e2369d.png">
+
+
+This is the design for T-shirts of  "57th summer school of life science"(Shiga, Japan, 2017). Designed by Yoocie with Adobe Illustrator. 
 
 Over 50 years ago, the story bigins.
 A group of young researchers at life science seem to make something.
