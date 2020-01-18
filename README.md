@@ -7,7 +7,7 @@
 生命科学の加速度的な発展に伴い、大きく孤を拡げ続けます。
 さあ、2017年夏。57枚目のピースが、あなたを次のステージへ！ 
 
-(最下列の塩基配列をアミノ酸の1文字表記に変換すると、"ACHIEVE YOUR SCIENCE!"という文字が浮かび上がります。)
+(最下列の塩基配列をアミノ酸の1文字表記に変換すると、"ACHIEVE YOUR SCIENCE!"という文字列が浮かび上がります。)
 
 <img width="499" alt="Screenshot 2019-11-23 17 18 44" src="https://user-images.githubusercontent.com/50050131/69475825-574d3080-0e15-11ea-84c0-bd91e2e2369d.png">
 
